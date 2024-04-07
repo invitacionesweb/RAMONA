@@ -49,11 +49,7 @@ header {
     }
 }
 .arrowdoble {
-    margin-top: 360px;
-    display: block;
-    animation: bounce;
-    animation-duration:2s;
-    animation-iteration-count: infinite;
+    display: none;
 }
 header .animales {
     width: 100vw;
