@@ -372,13 +372,17 @@ footer img {
         display: none;
     }
     .segundo {
+    
         background-image: url(./img/Group.png);
         color: var(--color-principal);
         width: 100%;
     }
     .segundo P{
         color: var(--color-terciario);
-        width: 100%;
+        width: auto;
+        padding: 10px 0;
+        max-width: 90%;
+
     }
    
     .f1, .f2, .f3 {
